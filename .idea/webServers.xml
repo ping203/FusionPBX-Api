@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e495b7e-632f-4935-9a26-232a1b85f5ac" name="fusionpbx" url="http://localhost">
+        <fileTransfer host="68.183.118.167" port="22" rootFolder="/var/www/fusionpbx" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
