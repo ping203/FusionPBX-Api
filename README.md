@@ -12,9 +12,10 @@ So you should have a directory like this:
 
 Log into your fusionpbx, go to the user you want to have api access, where it says API Key, click generate.
 
-That is now your key  
+That is now your key 
 
 ## Usage
-https://your-fusion-address/restapi/extensions.php?key=YOURKEY
+Return all extensions accross all domains
+https://your-fusion-address/restapi/extensions.php?key=YOURKEY  
 
 
