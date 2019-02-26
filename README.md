@@ -15,7 +15,7 @@ Log into your fusionpbx, go to the user you want to have api access, where it sa
 That is now your key 
 
 ## Usage
-Return all extensions accross all domains
+Return all extensions accross all domains  
 https://your-fusion-address/restapi/extensions.php?key=YOURKEY  
 
 
