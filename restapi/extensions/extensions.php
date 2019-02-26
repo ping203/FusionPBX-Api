@@ -6,6 +6,8 @@
  * Time: 12:20 PM
  */
 
+header('Content-Type: application/json');
+
 include '/var/www/fusionpbx/root.php';
 require_once '/var/www/fusionpbx/resources/check_auth.php';
 
