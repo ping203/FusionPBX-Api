@@ -18,4 +18,9 @@ That is now your key
 Return all extensions accross all domains  
 https://your-fusion-address/restapi/extensions.php?key=YOURKEY  
 
+## API Calls
+### Extensions
+Paramaters  
+* domain_uuid
+* extension
 
